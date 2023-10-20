@@ -38,13 +38,10 @@ namespace Application{
                 int winner = 0;
                 // Process who wins then return an integer
                 winner = gameMaster.Think(GameVars.inputindex);
-                switch (winner){
-                    case 1:
-                        GameVars.PScore += 1;
-                    break;
-                    case 2:
-                        GameVars.AScore += 1;
-                    break;
+                if(winner == 1){
+                    GameVars.PScore += 1;
+                }else if(winner == 2){
+                    GameVars.AScore += 1;
                 }
                 WriteLine("┌────────────────────────────────────┐");
                 // Print out the updated scores

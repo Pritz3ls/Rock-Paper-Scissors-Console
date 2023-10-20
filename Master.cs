@@ -10,7 +10,7 @@ namespace Application
             int resWin = Proc(Pindex);
             return resWin;
         }
-        public int Proc(int Pindex){
+        public int Process_Turns(int Pindex){
             int res = 0;
             /* Mechanics
             Rock = 0
