@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Test Programs\\RockPaperScissor V2\\RockPaperScissor V2.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Test Programs\\GitTest\\Rock-Paper-Scissors-Console\\RockPaperScissor V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Test Programs\\RockPaperScissor V2\\RockPaperScissor V2.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Test Programs\\GitTest\\Rock-Paper-Scissors-Console\\RockPaperScissor V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Test Programs\\RockPaperScissor V2\\RockPaperScissor V2.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Test Programs\\GitTest\\Rock-Paper-Scissors-Console\\RockPaperScissor V2.csproj",
         "projectName": "RockPaperScissor V2",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Test Programs\\RockPaperScissor V2\\RockPaperScissor V2.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Test Programs\\GitTest\\Rock-Paper-Scissors-Console\\RockPaperScissor V2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Test Programs\\RockPaperScissor V2\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Test Programs\\GitTest\\Rock-Paper-Scissors-Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
